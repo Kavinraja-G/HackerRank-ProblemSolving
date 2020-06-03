@@ -1,2 +1,2 @@
 # HackerRank-ProblemSolving
-Problems solved in the Hackerrank portal under the problem solving skills
+My personal repo on Problem Solving skill in HackerRank using JAVA and C
